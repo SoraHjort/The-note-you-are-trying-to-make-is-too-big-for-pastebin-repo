@@ -210,6 +210,10 @@ Moved to Keenspace/Comicgenesis - ghastlycomic.com/
 Moved to Patreon - dungeond.com/
 Moved to Tapas - soulless-comic.com/
 Moved to gocomics.com - snowflakescomic.com/
+Broken{ reader doesn't load to test the script - simple-scans.com/
+Broken{A part of a long string of dead manga sister sites. Still works, but it's broken - manga-tu.be/
+Broken{See above - friendshipscans.com/
+Broken{see above the above - yuri-ism.net/
 
 [---Broken---]
 
@@ -280,7 +284,6 @@ Broken - ffn.nodwick.com/
 Broken - fonflatter.de/
 Broken - fourcolorshadows.blogspot.com/
 Broken - foxtrot.com/
-Broken - friendshipscans.com/
 Broken - friendswithboys.com/
 Broken - garfieldminusgarfield.net/
 Broken - geekculture.com/joyoftech/
@@ -317,7 +320,6 @@ Broken - lovehentaimanga.com/
 Broken - lovemenicecomic.com/
 Broken - luscious.net/pictures/
 Broken - magellanverse.com/
-Broken - manga-tu.be/
 Broken - mangaeden.com/
 Broken - mangahere.cc/
 Broken - mangainn.me/
@@ -399,7 +401,6 @@ Broken - webtoons.com/
 Broken - whompcomic.com/
 Broken - wiemanga.com/
 Broken - yafgc.net/
-Broken - yuri-ism.net/
 Broken - zapcomic.com/
 Broken - zenpencils.com/
 Broken - zizki.com/
@@ -431,7 +432,6 @@ Broken{ but the site it self is broken. Nothing that we can work with - memoria.
 Broken{ currently going through a site redesign? - maakies.com/
 Broken{ don't think it can be fixed. - sleepymaid.com/
 Broken{ or now a hubsite - kingfeatures.com/
-Broken{ reader doesn't load to test the script - simple-scans.com/
 Broken{ Trying to go back jumps to the home page - dresdencodak.com/
 Broken{ Slightly broken. Weirdly so. - sheldoncomics.com/
 Presumably Broken - fakku.net/
