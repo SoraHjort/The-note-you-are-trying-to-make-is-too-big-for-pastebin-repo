@@ -195,15 +195,11 @@ Subdomain dead, Main is broken, presumably, keep getting 403s - mh.socomic.com/c
 Redirects - hentai.ms/
 Redirects - img.wiemanga.com/
 Redirects - kukudm.com/comiclist/
-Redirects - lackadaisy.foxprints.com/comic.php
 Redirects - mangahere.co/
 Redirects - mangastream.com/
 Redirects - readms.com/
-Redirects to Keenspot (broken) - twokinds.net/
-Redirects/Merged Spinnyverse - krakowstudios.com/
 Redriects - mangadoom.co/
-Obsolete - hf.dilbert.com/strip/
-Obsolete - old.lu.scio.us/hentai/albums/
+Redirects - old.lu.scio.us/hentai/albums/
 No longer hosting comics - surasplace.com/
 No longer hosting onsite reader - reader.imangascans.org/
 No longer publicly viewable - paranormalmysterysquad.com/
@@ -634,3 +630,7 @@ New Domain, redirects - robandelliot.cycomics.com/
 New Domain? http://sakana-comic.com/ - sakanacomic.com/
 New URL? Redirects - myextralife.com/
 New domain name - loveandcapes.com/
+Redirects to Keenspot (broken) - twokinds.net/
+Redirects/Merged Spinnyverse - krakowstudios.com/
+Redirects - lackadaisy.foxprints.com/comic.php
+Obsolete - hf.dilbert.com/strip/
