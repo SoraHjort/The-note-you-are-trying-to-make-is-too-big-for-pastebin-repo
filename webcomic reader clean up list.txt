@@ -10,6 +10,10 @@ Times out, might be dead from information I'm hearing. - exhentai.org/
 Unknown, Appears to be just a image hosting site like photobucket- imagebam.com/
 Weird{ So the domain expired, someone nabbed it to say it expired and where to find the comics (on wayback machine) - anticscomic.com/
 
+Dead{ Check in a few months - redsplanet.com/
+Dead{ Check in a few months - tnemrot.com/
+Dead{ Check in a few months - warehousecomic.com/
+
 Live{ Kinda, some of the sub comics (listed in the script specifically_ aren't working, will need to check some stuff on that. Maybe specified sites will fix if unspecified - keenspot.com/
 
 
@@ -170,9 +174,6 @@ Dead, they closed shop - view.thespectrum.net/
 Dead{ (Redirects to mangareader) - goodmanga.net/
 Dead{ Artist Died, exists in wayback machine - lovecraftismissing.com/
 Dead{ Basically. No comic images exist - qgmindpolice.com/
-Dead{ Check in a few months - redsplanet.com/
-Dead{ Check in a few months - tnemrot.com/
-Dead{ Check in a few months - warehousecomic.com/
 Dead{ Has a message, can't read. Format looks like a fairwel letter. - phobia.subcultura.es/tira/
 Dead{ Merged or Moved? (Redirects) - doujin-moe.us/
 Dead{ Might be on tumblr now? - eegra.com/
@@ -214,6 +215,13 @@ Broken{ reader doesn't load to test the script - simple-scans.com/
 Broken{A part of a long string of dead manga sister sites. Still works, but it's broken - manga-tu.be/
 Broken{See above - friendshipscans.com/
 Broken{see above the above - yuri-ism.net/
+
+Broken - New Domain Name - mangapark.com/
+Broken - New Domain Name - mangapark.me/
+Broken - New Domain Name - mangawindow.com/
+Broken - tenmanga.com/
+Broken - wiemanga.com/
+Broken - read.egscans.com/
 
 [---Broken---]
 
@@ -348,7 +356,6 @@ Broken - precociouscomic.com/
 Broken - project-apollo.net/mos/
 Broken - ps238.nodwick.com/
 Broken - ravensdojo.com/
-Broken - read.egscans.com/
 Broken - reallifecomics.com/
 Broken - redmeat.com/
 Broken - remindblog.com/
@@ -379,7 +386,6 @@ Broken - supercrash.net/
 Broken - syacartoonist.com/
 Broken - sylvanmigdal.com/
 Broken - teahousecomic.com/
-Broken - tenmanga.com/
 Broken - terinu.com/
 Broken - terra-comic.com/
 Broken - the-gutters.com/
@@ -399,7 +405,6 @@ Broken - wapsisquare.com/
 Broken - webcomics.yaoi911.com/
 Broken - webtoons.com/
 Broken - whompcomic.com/
-Broken - wiemanga.com/
 Broken - yafgc.net/
 Broken - zapcomic.com/
 Broken - zenpencils.com/
@@ -619,9 +624,6 @@ New Domain - readmanga.today/
 New Domain Name (https://comic.nodwick.com/) - nodwick.humor.gamespy.com/
 New Domain Name - drunkduck.com/
 New Domain Name - evil-comic.com/
-New Domain Name - mangapark.com/
-New Domain Name - mangapark.me/
-New Domain Name - mangawindow.com/
 New Domain Name, redirects - mspfanventures.com/
 New Domain http://wumo.com/wumo - wulffmorgenthaler.com/
 New Domain, current site as a directory - wayfarersmoon.com/
