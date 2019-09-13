@@ -215,13 +215,32 @@ Broken{ reader doesn't load to test the script - simple-scans.com/
 Broken{A part of a long string of dead manga sister sites. Still works, but it's broken - manga-tu.be/
 Broken{See above - friendshipscans.com/
 Broken{see above the above - yuri-ism.net/
-
 Broken - New Domain Name - mangapark.com/
 Broken - New Domain Name - mangapark.me/
 Broken - New Domain Name - mangawindow.com/
 Broken - tenmanga.com/
 Broken - wiemanga.com/
 Broken - read.egscans.com/
+Broken - hentai2read.com/
+Broken - hentai4manga.com/
+Broken - hentaifr.net/
+Broken - hentaihere.com/m/
+Broken - lovehentaimanga.com/
+Broken - mangaeden.com/
+Broken - mangahere.cc/
+Broken - mangainn.me/
+Broken - mangapanda.com/
+Broken - mangareader.net/
+Broken - mangaseeonline.us/
+Broken - senmanga.com/
+New Domain - mangago.com/
+New Domain - readmanga.today/
+Broken - dm5.com/m
+Broken - tsumino.com/
+Broken - hitomi.la/reader/
+Moved{ Either it got a proper domain name or it's Dead. Since I don't know what it was I can't find out - 5.79.87.81/
+
+
 
 [---Broken---]
 
@@ -272,7 +291,6 @@ Broken - dieselsweeties.com/
 Broken - diggercomic.com/
 Broken - digitalcomicmuseum.com/
 Broken - dilbert.com/strip/
-Broken - dm5.com/m
 Broken - doctorcatmd.com/
 Broken - dominic-deegan.com/
 Broken - dorktower.com/
@@ -302,11 +320,6 @@ Broken - gocomics.com/
 Broken - gogetaroomie.com/
 Broken - gpf-comics.com/
 Broken - hejibits.com/
-Broken - hentai2read.com/
-Broken - hentai4manga.com/
-Broken - hentaifr.net/
-Broken - hentaihere.com/m/
-Broken - hitomi.la/reader/
 Broken - hyperdeathbabies.com/
 Broken - incase.buttsmithy.com/comic/
 Broken - inkdolls.com/
@@ -324,16 +337,9 @@ Broken - lawlscomic.com/
 Broken - leasticoulddo.com/
 Broken - leylinescomic.com/comics/
 Broken - little-gamers.com/
-Broken - lovehentaimanga.com/
 Broken - lovemenicecomic.com/
 Broken - luscious.net/pictures/
 Broken - magellanverse.com/
-Broken - mangaeden.com/
-Broken - mangahere.cc/
-Broken - mangainn.me/
-Broken - mangapanda.com/
-Broken - mangareader.net/
-Broken - mangaseeonline.us/
 Broken - mankin-trad.net/
 Broken - marycagle.com/
 Broken - meekcomic.com/
@@ -368,7 +374,6 @@ Broken - satwcomic.com/
 Broken - scarygoround.com/
 Broken - schlockmercenary.com/
 Broken - sdamned.com/
-Broken - senmanga.com/
 Broken - sevensmith.net/chirault/
 Broken - sexylosers.com/
 Broken - shd-wk.com/
@@ -398,7 +403,6 @@ Broken - threepanelsoul.com/
 Broken - tjandamal.com/
 Broken - tmkcomic.depleti.com/
 Broken - tryinghuman.com/
-Broken - tsumino.com/
 Broken - vgcats.com/
 Broken - vickifox.com/
 Broken - wapsisquare.com/
@@ -615,12 +619,9 @@ Moved and possibly dead (new site doesn't load anything bug the text) - claudean
 
 Moved to http://corridorcomix.com - twilightlady.com/
 Moved to sleepy maid - squid-ops.com/
-Moved{ Either it got a proper domain name or it's Dead. Since I don't know what it was I can't find out - 5.79.87.81/
 Moved{ http://www.gogetaroomie.com/ - gogetaroomie.chloe-art.com/
 New Archive Location, tapas.io - malandchad.com/
-New Domain - mangago.com/
 New Domain - marktrail.com/
-New Domain - readmanga.today/
 New Domain Name (https://comic.nodwick.com/) - nodwick.humor.gamespy.com/
 New Domain Name - drunkduck.com/
 New Domain Name - evil-comic.com/
